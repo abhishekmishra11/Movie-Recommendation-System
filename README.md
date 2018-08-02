@@ -1,4 +1,4 @@
-# movie-recommandation-system
+# movie-recommendation-system
   ## data
         o	https://www.kaggle.com/rounakbanik/movie-recommender-systems/data
   ## Algorithm 
